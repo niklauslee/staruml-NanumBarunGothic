@@ -1,0 +1,9 @@
+[
+    {
+        "name"       : "나눔바른고딕",
+        "regular"    : "NanumBarunGothic.ttf",
+        "italic"     : "NanumBarunGothic.ttf",
+        "bold"       : "NanumBarunGothicBold.ttf",
+        "boldItalic" : "NanumBarunGothicBold.ttf"
+    }
+]
