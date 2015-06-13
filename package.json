@@ -1,9 +1,9 @@
 {
-    "name": "staruml.NanumBarunGothic",
+    "name": "staruml.nanumbarungothic",
     "title": "나눔바른고딕 폰트",
     "description": "다이어그램에 나눔바른고딕 폰트를 사용할 수 있습니다. (Support Korean Nanum-Barun Gothic Fonts)",
-    "homepage": "https://github.com/niklauslee/staruml-NanumBarunGothic",
-    "issues": "https://github.com/niklauslee/staruml-NanumBarunGothic/issues",
+    "homepage": "https://github.com/niklauslee/staruml-nanumbarungothic",
+    "issues": "https://github.com/niklauslee/staruml-nanumbarungothic/issues",
     "version": "0.9.0",
     "author": {
         "name": "Minkyu Lee",
